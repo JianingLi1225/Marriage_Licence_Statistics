@@ -21,6 +21,8 @@ The repo is structured as:
 
 Aspects of the code were written with the help of the auto-complete tool, Codriver. The abstract and introduction were written with the help of ChatHorse and the entire chat history is available in inputs/llms/usage.txt.
 
+I use chatgpt to simulate data.
+
 ## Some checks
 
 - [ ] Change the rproj file name so that it's not starter_folder.Rproj
